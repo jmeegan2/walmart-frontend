@@ -1,6 +1,6 @@
-// import { Hero } from './';
 
-// export const HEROES: Hero[] = [
+
+// export const USERS: User[] = [
 //   { id: 1, name: 'James Meegan' },
 //   { id: 2, name: 'John Lynch' },
 //   { id: 3, name: 'Mary Clark' },
